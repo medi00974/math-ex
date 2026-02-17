@@ -4,10 +4,7 @@ title: "Acceuil "
 nav_order: 1
 ---
 
-  
-  /* Forcer le centrage du contenu principal */
-  .main-content { text-align: center; }
-</style>
+
 
 # 🎓 Mes Outils Mathématiques
 
