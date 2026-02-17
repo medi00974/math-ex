@@ -1,8 +1,16 @@
-title: Mes Générateurs d'Exercices
-description: Exercices de mathématiques générés par IA.
-theme: jekyll-theme-minimal # On commence par le plus simple pour tester
+title: Site de Mr Antoine
+description: Mon générateur d'exercices et de devoirs
+theme: jekyll-theme-minimal
 remote_theme: just-the-docs/just-the-docs
 
-# Configuration de la navigation
+# Configuration du thème
 nav_enabled: true
-enable_copy_code_button: true
+search_enabled: true
+
+# Pour que les maths s'affichent (MathJax)
+aux_links:
+  "Mon GitHub": "https://github.com/medi00974"
+
+# On ajoute cette partie pour charger MathJax sur toutes les pages
+common_ext:
+  - mathjax
