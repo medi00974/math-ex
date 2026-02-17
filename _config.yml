@@ -3,7 +3,7 @@ description: Le générateurs d'exercices et devoirs de maths
 remote_theme: just-the-docs/just-the-docs
 
 # Active la recherche et le menu
-nav_enabled: true
+nav_enabled: false
 search_enabled: false
 
 # CONFIGURATION MATHÉMATIQUE
