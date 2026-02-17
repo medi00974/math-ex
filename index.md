@@ -18,6 +18,7 @@ nav_exclude: true
   body, .main-content-wrap, .main-content {
     background-color: #e8f5e9 !important; /* Un vert très doux */
   }
+  .search, .search-placeholder { display: none !important; }
 
   .main-content { text-align: center; }
 </style>
