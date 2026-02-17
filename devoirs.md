@@ -11,7 +11,7 @@ nav_order:
   }
 
   /* 2. Masque la barre latérale, la recherche et les titres automatiques */
-  .side-bar, .search, .search-placeholder, .content-header, .breadcrumb-nav { 
+  .side-bar, .search, .search-placeholder,  .breadcrumb-nav { 
     display: none !important; 
   }
 
