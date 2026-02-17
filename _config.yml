@@ -4,7 +4,7 @@ remote_theme: just-the-docs/just-the-docs
 
 # Active la recherche et le menu
 nav_enabled: true
-search_enabled: true
+search_enabled: false
 
 # CONFIGURATION MATHÉMATIQUE
 # On injecte le script MathJax directement dans le site
