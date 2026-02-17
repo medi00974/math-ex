@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Exercices
-nav_order: 2
+title: Devoirs
+nav_order: 
 ---
 
 # Le générateur de devoirs en  ligne:
