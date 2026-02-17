@@ -4,7 +4,7 @@ title: Exercices
 nav_order: 2
 ---
 
-# Exercices sur les Fractions
+# Le générateur d'exercices en ligne:
 
 ## Exercice 1
 Calculer la somme suivante en détaillant les étapes :
