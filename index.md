@@ -1,13 +1,17 @@
 ---
 layout: default
-title: " "
+title: "Acceuil "
 nav_order: 1
 ---
 
 <style>
   /* Masquer le titre de page automatique et le fil d'ariane */
-  .content-header, .breadcrumb-nav { display: none !important; }
-  
+   .breadcrumb-nav { display: none !important; }
+
+  /* Appliquer le fond vert clair à toute la page */
+  body, .main-content-wrap, .main-content {
+    background-color: #e8f5e9 !important; /* Un vert très doux */
+  }
   /* Forcer le centrage du contenu principal */
   .main-content { text-align: center; }
 </style>
