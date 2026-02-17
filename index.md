@@ -25,7 +25,7 @@ nav_exclude: true
 
 # 🎓 Mes Outils Mathématiques
 
-Bienvenue sur mon site, Choisissez votre module :
+Bienvenue sur le site de Mr Antoine, Choisissez votre module :
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: nowrap; margin: 30px auto; max-width: 100%;">
 
