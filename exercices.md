@@ -9,15 +9,10 @@ nav_order: 2
     background-color: #ffebee !important; /* Rouge pâle/rosé */
   }
 
-  /* Pour que le conteneur du chat reste blanc et ressorte bien */
-  .chat-container { 
-    background: white !important; 
-    border: 1px solid #ffcdd2;
-  }
-  
   /* On centre aussi le contenu comme sur l'accueil */
   .main-content { text-align: center; }
   .content-header, .breadcrumb-nav { display: none !important; }
+  
 </style>
 # Le générateur d'exercices en ligne:
 
