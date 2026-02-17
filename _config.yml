@@ -1,16 +1,12 @@
-title: Site de Mr Antoine
-description: Mon générateur d'exercices et de devoirs
-theme: jekyll-theme-minimal
+title: Mes Générateurs d'Exercices
+description: Exercices de maths via Gemini
 remote_theme: just-the-docs/just-the-docs
 
-# Configuration du thème
+# Active la recherche et le menu
 nav_enabled: true
 search_enabled: true
 
-# Pour que les maths s'affichent (MathJax)
-aux_links:
-  "Mon GitHub": "https://github.com/medi00974"
-
-# On ajoute cette partie pour charger MathJax sur toutes les pages
-common_ext:
-  - mathjax
+# CONFIGURATION MATHÉMATIQUE
+# On injecte le script MathJax directement dans le site
+head_scripts:
+  - "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
