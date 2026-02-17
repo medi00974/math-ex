@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Les Fractions
+title: Exercices
 nav_order: 2
 ---
 
