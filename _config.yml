@@ -3,10 +3,10 @@ description: Le générateurs d'exercices et devoirs de maths
 remote_theme: just-the-docs/just-the-docs
 
 # Active la recherche et le menu
-nav_enabled: false
+nav_enabled: true
 search_enabled: false
 
 # CONFIGURATION MATHÉMATIQUE
-# On injecte le script MathJax directement dans le site
+# Charger MathJax pour transformer le code en jolies formules
 head_scripts:
   - "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
