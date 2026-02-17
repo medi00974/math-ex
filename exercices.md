@@ -12,7 +12,10 @@ nav_order: 2
   /* On centre aussi le contenu comme sur l'accueil */
   .main-content { text-align: center; }
   .content-header, .breadcrumb-nav { display: none !important; }
-  
+   /* 3. Supprime la marge de gauche pour centrer le contenu */
+  .main { 
+    margin-left: 0 !important; 
+  }
 </style>
 # Le générateur d'exercices en ligne:
 
