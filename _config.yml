@@ -1,0 +1,8 @@
+title: Mes Générateurs d'Exercices
+description: Exercices de mathématiques générés par IA.
+theme: jekyll-theme-minimal # On commence par le plus simple pour tester
+remote_theme: just-the-docs/just-the-docs
+
+# Configuration de la navigation
+nav_enabled: true
+enable_copy_code_button: true
