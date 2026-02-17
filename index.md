@@ -1,12 +1,9 @@
 ---
 layout: default
-title: " "
+title: "Acceuil "
 nav_order: 1
 ---
 
-<style>
-  /* Masquer le titre de page automatique et le fil d'ariane */
-  .content-header, .breadcrumb-nav { display: none !important; }
   
   /* Forcer le centrage du contenu principal */
   .main-content { text-align: center; }
